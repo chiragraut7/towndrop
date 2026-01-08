@@ -1,6 +1,6 @@
 import type { Metadata } from "next"; // Added this import
 import './globals.css';
-import Header from './components/Header.tsx';
+import Header from './components/Header';
 import Footer from './components/Footer';
 
 export const metadata: Metadata = {
